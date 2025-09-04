@@ -6,7 +6,7 @@ st.markdown(
     <style>
     body {
         direction: rtl;
-        text-align: right;
+        text-align: left;
     }
 
     /* برچسب‌های ورودی */
